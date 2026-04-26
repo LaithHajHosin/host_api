@@ -1,0 +1,1001 @@
+﻿user_id,age,country
+1,35,Qatar
+2,36,Jordan
+3,40,Morocco
+4,39,Egypt
+5,51,UAE
+6,35,Kuwait
+7,22,Morocco
+8,58,Morocco
+9,63,Saudi Arabia
+10,54,Saudi Arabia
+11,44,Jordan
+12,26,Egypt
+13,51,Egypt
+14,44,Saudi Arabia
+15,30,Egypt
+16,30,UAE
+17,40,Jordan
+18,49,Egypt
+19,36,Saudi Arabia
+20,53,Qatar
+21,40,UAE
+22,30,Saudi Arabia
+23,50,Egypt
+24,63,Qatar
+25,53,Qatar
+26,18,Egypt
+27,51,Saudi Arabia
+28,42,Kuwait
+29,59,Kuwait
+30,24,Morocco
+31,43,Saudi Arabia
+32,65,Qatar
+33,41,Morocco
+34,31,Qatar
+35,33,Morocco
+36,25,Jordan
+37,56,Saudi Arabia
+38,29,Qatar
+39,47,Egypt
+40,32,UAE
+41,54,Saudi Arabia
+42,42,Saudi Arabia
+43,34,Kuwait
+44,56,Qatar
+45,57,UAE
+46,31,Qatar
+47,25,Kuwait
+48,32,UAE
+49,55,Kuwait
+50,49,UAE
+51,23,UAE
+52,24,Jordan
+53,39,Saudi Arabia
+54,47,Egypt
+55,19,Kuwait
+56,50,Saudi Arabia
+57,40,Saudi Arabia
+58,54,Egypt
+59,21,Egypt
+60,24,Morocco
+61,38,UAE
+62,23,Saudi Arabia
+63,64,Jordan
+64,20,Kuwait
+65,63,UAE
+66,50,Qatar
+67,47,Egypt
+68,18,Saudi Arabia
+69,61,Morocco
+70,24,Qatar
+71,28,Morocco
+72,23,Jordan
+73,53,Jordan
+74,62,Kuwait
+75,58,Kuwait
+76,27,Morocco
+77,52,Morocco
+78,51,Egypt
+79,54,UAE
+80,29,Morocco
+81,57,Jordan
+82,21,Saudi Arabia
+83,54,Morocco
+84,40,Saudi Arabia
+85,31,Egypt
+86,64,Kuwait
+87,47,Morocco
+88,50,Qatar
+89,28,Egypt
+90,57,Jordan
+91,64,Kuwait
+92,42,Saudi Arabia
+93,53,Kuwait
+94,23,Saudi Arabia
+95,63,Kuwait
+96,52,Morocco
+97,63,Egypt
+98,35,Morocco
+99,52,Kuwait
+100,37,Jordan
+101,46,Saudi Arabia
+102,20,Qatar
+103,20,Egypt
+104,61,UAE
+105,40,Morocco
+106,31,Qatar
+107,56,Kuwait
+108,57,Morocco
+109,24,Jordan
+110,26,UAE
+111,64,Jordan
+112,62,Kuwait
+113,29,Kuwait
+114,18,Morocco
+115,42,UAE
+116,23,Qatar
+117,45,Saudi Arabia
+118,62,Jordan
+119,26,Egypt
+120,33,Saudi Arabia
+121,58,Qatar
+122,44,Egypt
+123,33,Morocco
+124,44,Saudi Arabia
+125,32,Kuwait
+126,51,Egypt
+127,45,Jordan
+128,65,Qatar
+129,18,Kuwait
+130,36,Saudi Arabia
+131,62,Egypt
+132,18,Kuwait
+133,23,Kuwait
+134,19,Egypt
+135,39,Kuwait
+136,18,UAE
+137,22,Egypt
+138,28,UAE
+139,27,Jordan
+140,42,Kuwait
+141,26,Saudi Arabia
+142,46,Morocco
+143,46,Saudi Arabia
+144,58,UAE
+145,22,Kuwait
+146,43,Morocco
+147,54,UAE
+148,37,Jordan
+149,37,UAE
+150,61,UAE
+151,18,Qatar
+152,37,Egypt
+153,40,Kuwait
+154,56,UAE
+155,63,Morocco
+156,18,Qatar
+157,17,Jordan
+158,59,Kuwait
+159,60,Egypt
+160,62,Morocco
+161,28,Morocco
+162,62,Saudi Arabia
+163,55,Jordan
+164,49,Saudi Arabia
+165,27,UAE
+166,54,Kuwait
+167,19,UAE
+168,46,Morocco
+169,22,UAE
+170,23,Jordan
+171,16,UAE
+172,54,Jordan
+173,64,Kuwait
+174,39,UAE
+175,38,Morocco
+176,23,Egypt
+177,20,Saudi Arabia
+178,38,UAE
+179,31,Jordan
+180,65,Egypt
+181,50,Kuwait
+182,36,UAE
+183,27,Egypt
+184,49,Morocco
+185,16,Qatar
+186,20,Egypt
+187,49,Saudi Arabia
+188,41,Egypt
+189,45,UAE
+190,48,Kuwait
+191,41,UAE
+192,31,Egypt
+193,28,Morocco
+194,31,UAE
+195,57,Qatar
+196,44,Egypt
+197,28,Saudi Arabia
+198,55,Saudi Arabia
+199,38,UAE
+200,47,Qatar
+201,59,Kuwait
+202,48,Kuwait
+203,23,Qatar
+204,40,Kuwait
+205,47,Kuwait
+206,48,Jordan
+207,61,Saudi Arabia
+208,41,Kuwait
+209,56,Morocco
+210,63,Qatar
+211,50,Qatar
+212,28,Kuwait
+213,32,UAE
+214,52,Saudi Arabia
+215,32,Qatar
+216,20,Egypt
+217,58,Morocco
+218,62,Qatar
+219,45,Qatar
+220,37,Jordan
+221,27,Egypt
+222,50,Jordan
+223,21,Kuwait
+224,20,Saudi Arabia
+225,42,Egypt
+226,19,Saudi Arabia
+227,64,Kuwait
+228,20,Jordan
+229,26,Morocco
+230,56,Egypt
+231,58,UAE
+232,42,Qatar
+233,59,Saudi Arabia
+234,17,Kuwait
+235,29,UAE
+236,37,UAE
+237,18,Qatar
+238,58,Morocco
+239,44,Morocco
+240,53,Qatar
+241,31,Jordan
+242,28,Egypt
+243,55,Jordan
+244,52,Jordan
+245,65,Jordan
+246,55,Morocco
+247,23,Qatar
+248,22,Morocco
+249,34,Egypt
+250,52,Egypt
+251,60,Kuwait
+252,42,Egypt
+253,20,Egypt
+254,45,Morocco
+255,51,Saudi Arabia
+256,19,Qatar
+257,34,Saudi Arabia
+258,65,Egypt
+259,28,Morocco
+260,44,UAE
+261,19,Qatar
+262,16,Saudi Arabia
+263,18,UAE
+264,52,UAE
+265,55,Egypt
+266,55,UAE
+267,20,Qatar
+268,54,Kuwait
+269,55,Egypt
+270,24,Morocco
+271,62,Kuwait
+272,43,Jordan
+273,53,Egypt
+274,32,Morocco
+275,21,Kuwait
+276,25,Jordan
+277,47,Kuwait
+278,42,Qatar
+279,55,Saudi Arabia
+280,21,Saudi Arabia
+281,32,UAE
+282,37,Qatar
+283,40,Jordan
+284,35,Morocco
+285,52,Qatar
+286,57,Jordan
+287,16,Saudi Arabia
+288,41,Morocco
+289,38,Kuwait
+290,56,Jordan
+291,36,UAE
+292,39,Egypt
+293,56,Morocco
+294,37,UAE
+295,33,Morocco
+296,16,Saudi Arabia
+297,57,Saudi Arabia
+298,41,Saudi Arabia
+299,45,Saudi Arabia
+300,51,Jordan
+301,19,Qatar
+302,47,Saudi Arabia
+303,27,Jordan
+304,59,Qatar
+305,17,UAE
+306,45,Morocco
+307,30,Egypt
+308,26,UAE
+309,20,Qatar
+310,58,Egypt
+311,30,Morocco
+312,54,Qatar
+313,36,Jordan
+314,64,Egypt
+315,44,Kuwait
+316,58,Egypt
+317,63,Saudi Arabia
+318,22,Morocco
+319,52,Egypt
+320,19,Jordan
+321,42,Egypt
+322,20,Qatar
+323,63,Egypt
+324,49,UAE
+325,34,Qatar
+326,40,Egypt
+327,64,Morocco
+328,63,Saudi Arabia
+329,53,Jordan
+330,21,Jordan
+331,62,Egypt
+332,36,UAE
+333,53,Jordan
+334,64,Egypt
+335,38,Egypt
+336,22,UAE
+337,21,Jordan
+338,52,Qatar
+339,30,Qatar
+340,37,UAE
+341,55,Qatar
+342,23,Egypt
+343,30,Saudi Arabia
+344,60,Kuwait
+345,48,Egypt
+346,24,Jordan
+347,22,Qatar
+348,39,Kuwait
+349,57,Qatar
+350,58,Jordan
+351,26,Kuwait
+352,34,Qatar
+353,57,Qatar
+354,57,Qatar
+355,16,Morocco
+356,60,Morocco
+357,56,Jordan
+358,32,Morocco
+359,38,Egypt
+360,25,Morocco
+361,36,Saudi Arabia
+362,22,Jordan
+363,47,UAE
+364,63,Jordan
+365,49,Morocco
+366,45,Egypt
+367,19,Qatar
+368,26,Morocco
+369,58,Kuwait
+370,21,Jordan
+371,57,Morocco
+372,29,UAE
+373,33,UAE
+374,46,UAE
+375,47,Morocco
+376,56,UAE
+377,28,UAE
+378,40,Morocco
+379,61,Egypt
+380,62,Jordan
+381,32,Morocco
+382,65,Morocco
+383,22,Kuwait
+384,44,Kuwait
+385,50,Morocco
+386,53,Saudi Arabia
+387,50,Egypt
+388,44,Qatar
+389,27,UAE
+390,29,Jordan
+391,47,Kuwait
+392,38,Saudi Arabia
+393,41,Kuwait
+394,36,Morocco
+395,65,Qatar
+396,51,Jordan
+397,50,Kuwait
+398,62,Qatar
+399,16,Saudi Arabia
+400,28,Saudi Arabia
+401,53,Qatar
+402,19,Jordan
+403,49,Egypt
+404,31,Qatar
+405,51,Egypt
+406,32,UAE
+407,46,Qatar
+408,16,Morocco
+409,47,Morocco
+410,44,Jordan
+411,57,Kuwait
+412,65,Kuwait
+413,23,Jordan
+414,61,Qatar
+415,47,Morocco
+416,52,Egypt
+417,27,UAE
+418,39,UAE
+419,61,Kuwait
+420,60,Jordan
+421,59,Morocco
+422,42,UAE
+423,40,UAE
+424,59,Kuwait
+425,63,Qatar
+426,59,Egypt
+427,23,UAE
+428,41,Qatar
+429,19,UAE
+430,60,Morocco
+431,54,Qatar
+432,31,Morocco
+433,53,Egypt
+434,22,UAE
+435,47,Jordan
+436,60,Jordan
+437,55,Qatar
+438,19,Kuwait
+439,22,Jordan
+440,50,Jordan
+441,30,Egypt
+442,30,Qatar
+443,52,Jordan
+444,60,Morocco
+445,19,Morocco
+446,16,UAE
+447,20,UAE
+448,32,UAE
+449,22,Kuwait
+450,27,UAE
+451,28,UAE
+452,51,Jordan
+453,54,Saudi Arabia
+454,59,Kuwait
+455,30,Qatar
+456,55,Jordan
+457,47,Egypt
+458,37,Jordan
+459,48,Egypt
+460,51,Jordan
+461,61,Jordan
+462,45,Morocco
+463,57,Egypt
+464,36,UAE
+465,42,Egypt
+466,18,UAE
+467,65,Morocco
+468,58,Saudi Arabia
+469,49,Qatar
+470,44,Kuwait
+471,25,Morocco
+472,50,Egypt
+473,37,Saudi Arabia
+474,63,Egypt
+475,29,Morocco
+476,46,Kuwait
+477,37,Kuwait
+478,47,Saudi Arabia
+479,31,Saudi Arabia
+480,33,Kuwait
+481,55,Qatar
+482,45,Egypt
+483,59,Qatar
+484,51,Egypt
+485,37,Egypt
+486,50,Morocco
+487,28,Saudi Arabia
+488,25,Saudi Arabia
+489,19,Egypt
+490,34,Kuwait
+491,26,Morocco
+492,48,Jordan
+493,54,UAE
+494,46,Egypt
+495,33,UAE
+496,38,Jordan
+497,22,Qatar
+498,23,Qatar
+499,47,Saudi Arabia
+500,62,Morocco
+501,40,UAE
+502,26,UAE
+503,48,Egypt
+504,22,Jordan
+505,63,Jordan
+506,26,Jordan
+507,54,Egypt
+508,33,Saudi Arabia
+509,64,Jordan
+510,37,Kuwait
+511,57,Jordan
+512,30,Morocco
+513,16,Saudi Arabia
+514,60,UAE
+515,45,Jordan
+516,60,Qatar
+517,30,Qatar
+518,55,UAE
+519,63,Morocco
+520,63,Saudi Arabia
+521,57,Morocco
+522,17,UAE
+523,62,Egypt
+524,47,Egypt
+525,60,Kuwait
+526,29,Kuwait
+527,39,Egypt
+528,55,Egypt
+529,34,Morocco
+530,28,Saudi Arabia
+531,56,Saudi Arabia
+532,23,Kuwait
+533,55,Qatar
+534,58,Jordan
+535,47,UAE
+536,21,Morocco
+537,18,Qatar
+538,54,Jordan
+539,29,Kuwait
+540,54,Kuwait
+541,20,Egypt
+542,57,Jordan
+543,29,Jordan
+544,51,Qatar
+545,27,Qatar
+546,27,Kuwait
+547,49,Morocco
+548,57,Jordan
+549,43,Egypt
+550,58,UAE
+551,38,UAE
+552,45,Qatar
+553,36,Kuwait
+554,47,Qatar
+555,44,Qatar
+556,41,Kuwait
+557,49,Saudi Arabia
+558,21,Jordan
+559,28,Egypt
+560,50,UAE
+561,25,UAE
+562,34,UAE
+563,59,Saudi Arabia
+564,20,Egypt
+565,44,Saudi Arabia
+566,57,Morocco
+567,38,Morocco
+568,23,UAE
+569,42,Jordan
+570,23,Egypt
+571,40,Qatar
+572,17,Jordan
+573,64,Saudi Arabia
+574,61,Jordan
+575,29,Kuwait
+576,45,Qatar
+577,16,Egypt
+578,62,UAE
+579,46,Qatar
+580,21,UAE
+581,32,UAE
+582,52,Egypt
+583,17,Jordan
+584,58,Jordan
+585,23,Jordan
+586,45,Qatar
+587,65,Jordan
+588,24,Qatar
+589,54,Saudi Arabia
+590,46,UAE
+591,61,Jordan
+592,60,Egypt
+593,44,Jordan
+594,16,Kuwait
+595,17,Kuwait
+596,60,Qatar
+597,26,Qatar
+598,32,Kuwait
+599,42,Qatar
+600,37,Saudi Arabia
+601,57,UAE
+602,53,Saudi Arabia
+603,56,Jordan
+604,63,Morocco
+605,21,Egypt
+606,25,Saudi Arabia
+607,30,Qatar
+608,22,Saudi Arabia
+609,63,Egypt
+610,63,Kuwait
+611,55,Qatar
+612,23,Qatar
+613,27,Saudi Arabia
+614,42,Jordan
+615,48,Saudi Arabia
+616,18,UAE
+617,28,Egypt
+618,29,UAE
+619,35,Egypt
+620,19,Qatar
+621,31,Morocco
+622,31,UAE
+623,48,Egypt
+624,19,UAE
+625,42,UAE
+626,33,Egypt
+627,34,Qatar
+628,53,Saudi Arabia
+629,54,Qatar
+630,41,Morocco
+631,52,UAE
+632,19,Kuwait
+633,35,Qatar
+634,45,UAE
+635,45,Kuwait
+636,35,Qatar
+637,46,Saudi Arabia
+638,46,Jordan
+639,57,Kuwait
+640,35,Morocco
+641,24,Jordan
+642,32,Morocco
+643,61,Qatar
+644,25,Saudi Arabia
+645,49,Qatar
+646,38,UAE
+647,17,Saudi Arabia
+648,55,Morocco
+649,57,Kuwait
+650,34,Jordan
+651,40,Egypt
+652,32,Morocco
+653,55,Egypt
+654,37,UAE
+655,51,Jordan
+656,38,Qatar
+657,48,Egypt
+658,25,Qatar
+659,50,Egypt
+660,21,Saudi Arabia
+661,55,Jordan
+662,35,Jordan
+663,57,Saudi Arabia
+664,29,Kuwait
+665,31,Egypt
+666,16,Saudi Arabia
+667,63,UAE
+668,32,Saudi Arabia
+669,63,Saudi Arabia
+670,31,Egypt
+671,29,Jordan
+672,49,Kuwait
+673,50,Qatar
+674,40,Kuwait
+675,43,Morocco
+676,46,Jordan
+677,22,UAE
+678,45,Saudi Arabia
+679,52,Kuwait
+680,18,Jordan
+681,43,Jordan
+682,60,UAE
+683,30,Morocco
+684,54,Egypt
+685,28,UAE
+686,36,Morocco
+687,26,Jordan
+688,61,Morocco
+689,28,Jordan
+690,23,Qatar
+691,43,Kuwait
+692,57,Kuwait
+693,35,Qatar
+694,53,Kuwait
+695,28,UAE
+696,65,Kuwait
+697,53,Kuwait
+698,53,Morocco
+699,36,Jordan
+700,53,UAE
+701,45,UAE
+702,39,UAE
+703,27,Saudi Arabia
+704,43,Morocco
+705,60,Morocco
+706,17,Morocco
+707,32,Kuwait
+708,30,Saudi Arabia
+709,29,Jordan
+710,41,Egypt
+711,36,Egypt
+712,59,Kuwait
+713,43,Kuwait
+714,59,Egypt
+715,26,Qatar
+716,22,Saudi Arabia
+717,28,Saudi Arabia
+718,57,UAE
+719,56,Kuwait
+720,57,UAE
+721,54,Jordan
+722,57,Egypt
+723,55,UAE
+724,65,Qatar
+725,45,Kuwait
+726,35,Morocco
+727,63,Jordan
+728,58,Morocco
+729,47,UAE
+730,24,Morocco
+731,26,UAE
+732,19,Morocco
+733,49,Kuwait
+734,51,UAE
+735,34,UAE
+736,28,Jordan
+737,53,Saudi Arabia
+738,33,Morocco
+739,19,Egypt
+740,46,Kuwait
+741,20,Jordan
+742,54,UAE
+743,21,Morocco
+744,44,Kuwait
+745,27,Saudi Arabia
+746,48,Morocco
+747,58,Jordan
+748,31,Qatar
+749,42,Egypt
+750,21,UAE
+751,60,Saudi Arabia
+752,63,Jordan
+753,52,Kuwait
+754,30,Jordan
+755,54,Kuwait
+756,32,Egypt
+757,18,Jordan
+758,26,Morocco
+759,16,Saudi Arabia
+760,57,Jordan
+761,42,UAE
+762,38,UAE
+763,45,Morocco
+764,47,Qatar
+765,45,Egypt
+766,26,UAE
+767,58,Morocco
+768,41,Saudi Arabia
+769,32,Qatar
+770,25,UAE
+771,39,Saudi Arabia
+772,18,Jordan
+773,29,Kuwait
+774,25,Morocco
+775,29,Qatar
+776,30,Egypt
+777,44,Saudi Arabia
+778,18,UAE
+779,35,Saudi Arabia
+780,31,Jordan
+781,24,Qatar
+782,65,Jordan
+783,18,UAE
+784,52,Jordan
+785,65,Jordan
+786,17,Jordan
+787,30,Jordan
+788,23,Saudi Arabia
+789,53,Jordan
+790,50,UAE
+791,64,Morocco
+792,53,Morocco
+793,43,Kuwait
+794,38,Jordan
+795,51,Morocco
+796,64,UAE
+797,27,UAE
+798,62,Morocco
+799,26,Jordan
+800,37,UAE
+801,38,Jordan
+802,59,Jordan
+803,24,Jordan
+804,20,Egypt
+805,55,Morocco
+806,26,Jordan
+807,36,Egypt
+808,22,UAE
+809,33,Saudi Arabia
+810,31,Jordan
+811,51,Jordan
+812,53,Kuwait
+813,46,Kuwait
+814,43,Morocco
+815,51,Morocco
+816,23,Egypt
+817,60,Egypt
+818,48,UAE
+819,55,Kuwait
+820,37,Saudi Arabia
+821,45,Egypt
+822,22,Saudi Arabia
+823,33,Jordan
+824,30,Egypt
+825,23,Kuwait
+826,22,Jordan
+827,17,UAE
+828,55,UAE
+829,24,Qatar
+830,39,Morocco
+831,28,Qatar
+832,59,UAE
+833,21,Morocco
+834,64,Jordan
+835,16,Qatar
+836,59,Saudi Arabia
+837,55,Jordan
+838,40,Qatar
+839,27,Kuwait
+840,23,Egypt
+841,24,Qatar
+842,60,Egypt
+843,46,Qatar
+844,42,Kuwait
+845,40,Saudi Arabia
+846,44,Kuwait
+847,64,Qatar
+848,19,Saudi Arabia
+849,49,Morocco
+850,65,Saudi Arabia
+851,47,Saudi Arabia
+852,32,Saudi Arabia
+853,62,Qatar
+854,27,UAE
+855,50,Jordan
+856,45,Morocco
+857,55,Jordan
+858,50,Saudi Arabia
+859,32,Qatar
+860,42,Qatar
+861,52,Saudi Arabia
+862,51,Morocco
+863,50,Morocco
+864,36,Jordan
+865,28,UAE
+866,57,Qatar
+867,40,Jordan
+868,18,Qatar
+869,46,Qatar
+870,26,Saudi Arabia
+871,34,Jordan
+872,18,Saudi Arabia
+873,26,UAE
+874,29,Morocco
+875,29,UAE
+876,41,Morocco
+877,40,Saudi Arabia
+878,30,Jordan
+879,27,Saudi Arabia
+880,18,Egypt
+881,38,Saudi Arabia
+882,32,Jordan
+883,27,UAE
+884,49,Egypt
+885,33,Qatar
+886,26,Kuwait
+887,27,Kuwait
+888,58,Kuwait
+889,50,Morocco
+890,35,Kuwait
+891,19,Kuwait
+892,62,Saudi Arabia
+893,63,UAE
+894,64,UAE
+895,42,UAE
+896,24,Egypt
+897,23,Jordan
+898,45,Kuwait
+899,25,Morocco
+900,28,Kuwait
+901,17,Egypt
+902,64,Egypt
+903,33,UAE
+904,38,Jordan
+905,51,Egypt
+906,65,Kuwait
+907,37,Jordan
+908,59,Saudi Arabia
+909,43,Morocco
+910,39,Saudi Arabia
+911,21,Saudi Arabia
+912,50,Egypt
+913,42,Saudi Arabia
+914,62,Egypt
+915,56,Morocco
+916,36,Morocco
+917,17,Kuwait
+918,39,Egypt
+919,57,Kuwait
+920,55,Jordan
+921,20,Jordan
+922,55,Saudi Arabia
+923,40,Morocco
+924,18,Jordan
+925,42,Saudi Arabia
+926,54,Qatar
+927,41,Saudi Arabia
+928,24,Egypt
+929,29,Egypt
+930,63,UAE
+931,21,Egypt
+932,38,Qatar
+933,46,Egypt
+934,49,UAE
+935,25,Egypt
+936,59,Saudi Arabia
+937,17,Jordan
+938,23,Morocco
+939,52,UAE
+940,37,Saudi Arabia
+941,34,Morocco
+942,56,UAE
+943,40,Egypt
+944,31,Kuwait
+945,48,Egypt
+946,38,Jordan
+947,59,Saudi Arabia
+948,63,Egypt
+949,31,Jordan
+950,23,Kuwait
+951,28,Morocco
+952,56,UAE
+953,54,Egypt
+954,55,Saudi Arabia
+955,62,Saudi Arabia
+956,44,Jordan
+957,63,Qatar
+958,24,Qatar
+959,24,Morocco
+960,33,UAE
+961,62,Kuwait
+962,58,Saudi Arabia
+963,26,Saudi Arabia
+964,61,Morocco
+965,21,UAE
+966,25,Morocco
+967,24,Egypt
+968,65,UAE
+969,62,Morocco
+970,36,Jordan
+971,41,Egypt
+972,62,Morocco
+973,59,Jordan
+974,23,Jordan
+975,18,Morocco
+976,30,Egypt
+977,58,Saudi Arabia
+978,31,Jordan
+979,26,Kuwait
+980,61,Kuwait
+981,28,Morocco
+982,48,Qatar
+983,36,Kuwait
+984,29,Egypt
+985,35,UAE
+986,32,Morocco
+987,47,Kuwait
+988,27,Saudi Arabia
+989,17,Jordan
+990,47,Kuwait
+991,31,Qatar
+992,24,Egypt
+993,43,UAE
+994,58,Morocco
+995,22,Kuwait
+996,25,Saudi Arabia
+997,44,Saudi Arabia
+998,51,Jordan
+999,58,Egypt
+1000,63,Saudi Arabia

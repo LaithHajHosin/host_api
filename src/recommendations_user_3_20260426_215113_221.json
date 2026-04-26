@@ -1,0 +1,145 @@
+{
+  "user_id": 3,
+  "recommendations": [
+    {
+      "product_id": 107,
+      "category": "Clothes",
+      "price": 235.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 70.65,
+      "avg_rating": 3.19,
+      "rating_count": 16
+    },
+    {
+      "product_id": 36,
+      "category": "Clothes",
+      "price": 421.0,
+      "product_name": "Jeans",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.1,
+      "avg_rating": 3.0,
+      "rating_count": 9
+    },
+    {
+      "product_id": 282,
+      "category": "Home Appliances",
+      "price": 339.0,
+      "product_name": "Toaster",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 68.98,
+      "avg_rating": 3.55,
+      "rating_count": 11
+    },
+    {
+      "product_id": 35,
+      "category": "Clothes",
+      "price": 286.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 68.63,
+      "avg_rating": 3.33,
+      "rating_count": 9
+    },
+    {
+      "product_id": 203,
+      "category": "Clothes",
+      "price": 252.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 68.49,
+      "avg_rating": 3.22,
+      "rating_count": 9
+    },
+    {
+      "product_id": 55,
+      "category": "Home Appliances",
+      "price": 207.0,
+      "product_name": "Iron",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.2,
+      "avg_rating": 3.25,
+      "rating_count": 8
+    },
+    {
+      "product_id": 260,
+      "category": "Clothes",
+      "price": 500.0,
+      "product_name": "Jeans",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.79,
+      "avg_rating": 3.82,
+      "rating_count": 17
+    },
+    {
+      "product_id": 155,
+      "category": "Perfumes",
+      "price": 178.0,
+      "product_name": "Fragrance Mist",
+      "subcategory": "Men",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.9,
+      "avg_rating": 4.6,
+      "rating_count": 5
+    },
+    {
+      "product_id": 457,
+      "category": "Clothes",
+      "price": 1143.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.1,
+      "avg_rating": 3.6,
+      "rating_count": 10
+    },
+    {
+      "product_id": 173,
+      "category": "Home Appliances",
+      "price": 1167.0,
+      "product_name": "Air Fryer",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 64.53,
+      "avg_rating": 4.33,
+      "rating_count": 6
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 33,
+    "best_fitness": 66.91,
+    "fitness_improvement": 0.11,
+    "random_seed": 430537,
+    "population_size": 53,
+    "mutation_rate": 0.136
+  },
+  "user_profile": {
+    "id": 3,
+    "age": 40,
+    "country": "Morocco",
+    "segment": "Working Professional",
+    "purchased_count": 2
+  },
+  "metadata": {
+    "timestamp": "2026-04-26T21:51:13.225231",
+    "total_recommendations": 10,
+    "random_seed": 430537
+  }
+}

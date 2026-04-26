@@ -1,0 +1,501 @@
+﻿product_id,category,price
+1,Toys,1351
+2,Toys,874
+3,Toys,1686
+4,Clothes,1453
+5,Perfumes,1215
+6,Toys,972
+7,Perfumes,1097
+8,Perfumes,62
+9,Perfumes,1666
+10,Sports,1298
+11,Sports,668
+12,Home Appliances,1540
+13,Books,1694
+14,Toys,177
+15,Electronics,346
+16,Perfumes,1620
+17,Perfumes,960
+18,Clothes,1969
+19,Perfumes,1186
+20,Home Appliances,34
+21,Clothes,179
+22,Electronics,1308
+23,Perfumes,1448
+24,Clothes,863
+25,Toys,1473
+26,Toys,139
+27,Home Appliances,1439
+28,Sports,1825
+29,Electronics,1279
+30,Books,1648
+31,Toys,1847
+32,Books,74
+33,Clothes,805
+34,Home Appliances,372
+35,Clothes,286
+36,Clothes,421
+37,Sports,635
+38,Home Appliances,1110
+39,Perfumes,339
+40,Home Appliances,1808
+41,Toys,1574
+42,Home Appliances,1957
+43,Electronics,1673
+44,Books,1464
+45,Perfumes,124
+46,Books,427
+47,Electronics,1276
+48,Toys,58
+49,Toys,312
+50,Toys,1594
+51,Toys,536
+52,Toys,747
+53,Sports,182
+54,Sports,637
+55,Home Appliances,207
+56,Toys,73
+57,Sports,1017
+58,Home Appliances,794
+59,Electronics,421
+60,Sports,1314
+61,Books,475
+62,Electronics,1038
+63,Toys,1806
+64,Sports,1624
+65,Books,1432
+66,Toys,1701
+67,Electronics,1630
+68,Perfumes,1695
+69,Toys,567
+70,Toys,1508
+71,Books,334
+72,Electronics,40
+73,Books,1876
+74,Perfumes,36
+75,Clothes,493
+76,Sports,118
+77,Electronics,187
+78,Clothes,716
+79,Clothes,440
+80,Sports,174
+81,Toys,734
+82,Books,1689
+83,Books,352
+84,Books,77
+85,Books,1017
+86,Sports,205
+87,Sports,1636
+88,Books,1404
+89,Sports,522
+90,Sports,418
+91,Home Appliances,72
+92,Sports,1180
+93,Books,1949
+94,Clothes,594
+95,Perfumes,1238
+96,Toys,998
+97,Home Appliances,1701
+98,Sports,956
+99,Clothes,1462
+100,Books,1333
+101,Sports,662
+102,Home Appliances,953
+103,Toys,1531
+104,Toys,1025
+105,Books,1046
+106,Sports,831
+107,Clothes,235
+108,Perfumes,804
+109,Books,217
+110,Perfumes,90
+111,Toys,173
+112,Home Appliances,1592
+113,Books,1373
+114,Electronics,229
+115,Sports,1237
+116,Toys,491
+117,Clothes,1956
+118,Perfumes,1778
+119,Sports,1079
+120,Electronics,924
+121,Books,1810
+122,Toys,532
+123,Clothes,614
+124,Toys,1344
+125,Books,1601
+126,Electronics,1929
+127,Sports,1787
+128,Electronics,1276
+129,Home Appliances,1485
+130,Perfumes,1570
+131,Books,1769
+132,Clothes,1631
+133,Toys,695
+134,Perfumes,635
+135,Clothes,1158
+136,Electronics,1786
+137,Electronics,1637
+138,Sports,1066
+139,Perfumes,1516
+140,Books,44
+141,Clothes,1722
+142,Toys,1518
+143,Toys,1009
+144,Sports,1048
+145,Toys,1020
+146,Books,566
+147,Perfumes,380
+148,Perfumes,1506
+149,Electronics,20
+150,Perfumes,337
+151,Perfumes,1000
+152,Electronics,673
+153,Clothes,1120
+154,Electronics,1195
+155,Perfumes,178
+156,Perfumes,1183
+157,Sports,1289
+158,Perfumes,235
+159,Home Appliances,21
+160,Home Appliances,124
+161,Electronics,1153
+162,Books,1765
+163,Sports,1189
+164,Home Appliances,1497
+165,Sports,848
+166,Books,924
+167,Home Appliances,903
+168,Books,376
+169,Sports,669
+170,Books,1104
+171,Perfumes,808
+172,Toys,1289
+173,Home Appliances,1167
+174,Perfumes,1623
+175,Sports,1924
+176,Home Appliances,1485
+177,Toys,1624
+178,Home Appliances,988
+179,Clothes,771
+180,Toys,1492
+181,Toys,913
+182,Home Appliances,386
+183,Toys,1130
+184,Toys,850
+185,Home Appliances,42
+186,Sports,1100
+187,Sports,1054
+188,Sports,44
+189,Books,1770
+190,Home Appliances,887
+191,Books,1352
+192,Electronics,1860
+193,Toys,1246
+194,Sports,1256
+195,Electronics,956
+196,Books,1213
+197,Home Appliances,1953
+198,Electronics,922
+199,Sports,1123
+200,Books,413
+201,Clothes,1441
+202,Perfumes,1410
+203,Clothes,252
+204,Electronics,443
+205,Books,675
+206,Electronics,631
+207,Toys,279
+208,Books,1400
+209,Home Appliances,1463
+210,Electronics,918
+211,Home Appliances,1622
+212,Sports,1024
+213,Perfumes,867
+214,Sports,1822
+215,Electronics,1805
+216,Clothes,257
+217,Clothes,1870
+218,Books,565
+219,Toys,68
+220,Electronics,896
+221,Perfumes,117
+222,Perfumes,1193
+223,Sports,1969
+224,Home Appliances,1905
+225,Clothes,154
+226,Home Appliances,995
+227,Books,1097
+228,Home Appliances,1394
+229,Clothes,1573
+230,Toys,1936
+231,Toys,475
+232,Perfumes,243
+233,Toys,1441
+234,Clothes,1298
+235,Perfumes,1749
+236,Perfumes,537
+237,Books,1262
+238,Sports,1829
+239,Books,1458
+240,Books,311
+241,Sports,1829
+242,Books,387
+243,Toys,1640
+244,Sports,876
+245,Clothes,841
+246,Perfumes,935
+247,Perfumes,814
+248,Electronics,1300
+249,Clothes,283
+250,Home Appliances,1181
+251,Clothes,881
+252,Sports,1946
+253,Electronics,1337
+254,Electronics,1047
+255,Clothes,615
+256,Home Appliances,719
+257,Home Appliances,927
+258,Books,449
+259,Perfumes,55
+260,Clothes,500
+261,Home Appliances,1402
+262,Electronics,1006
+263,Perfumes,814
+264,Perfumes,503
+265,Sports,693
+266,Home Appliances,806
+267,Clothes,974
+268,Home Appliances,775
+269,Perfumes,74
+270,Electronics,547
+271,Books,1026
+272,Clothes,1952
+273,Electronics,825
+274,Books,845
+275,Clothes,233
+276,Sports,1044
+277,Books,1184
+278,Home Appliances,797
+279,Books,655
+280,Perfumes,1338
+281,Perfumes,573
+282,Home Appliances,339
+283,Books,1506
+284,Home Appliances,1545
+285,Books,217
+286,Electronics,1548
+287,Electronics,1430
+288,Sports,728
+289,Toys,840
+290,Perfumes,1798
+291,Home Appliances,1414
+292,Sports,228
+293,Home Appliances,196
+294,Electronics,1559
+295,Sports,1563
+296,Electronics,1315
+297,Home Appliances,1741
+298,Toys,356
+299,Electronics,1022
+300,Toys,1168
+301,Toys,1251
+302,Home Appliances,225
+303,Home Appliances,1951
+304,Books,1941
+305,Books,1905
+306,Clothes,1917
+307,Books,661
+308,Home Appliances,1994
+309,Sports,1822
+310,Perfumes,1651
+311,Electronics,827
+312,Perfumes,951
+313,Clothes,745
+314,Clothes,1390
+315,Books,1540
+316,Clothes,1194
+317,Clothes,1279
+318,Home Appliances,27
+319,Toys,1325
+320,Home Appliances,1879
+321,Clothes,117
+322,Clothes,296
+323,Books,564
+324,Perfumes,649
+325,Books,903
+326,Sports,221
+327,Perfumes,1546
+328,Perfumes,1263
+329,Clothes,673
+330,Home Appliances,1609
+331,Books,1051
+332,Home Appliances,885
+333,Books,973
+334,Electronics,876
+335,Perfumes,516
+336,Home Appliances,244
+337,Clothes,721
+338,Perfumes,1241
+339,Home Appliances,254
+340,Sports,1765
+341,Toys,257
+342,Electronics,141
+343,Electronics,1504
+344,Books,343
+345,Electronics,553
+346,Sports,37
+347,Toys,1816
+348,Home Appliances,442
+349,Electronics,1312
+350,Sports,1130
+351,Sports,976
+352,Books,187
+353,Electronics,1599
+354,Clothes,1435
+355,Home Appliances,596
+356,Sports,1046
+357,Home Appliances,801
+358,Home Appliances,383
+359,Perfumes,313
+360,Home Appliances,688
+361,Home Appliances,624
+362,Sports,420
+363,Electronics,826
+364,Toys,797
+365,Toys,1364
+366,Sports,735
+367,Sports,847
+368,Toys,303
+369,Home Appliances,1585
+370,Clothes,580
+371,Perfumes,359
+372,Perfumes,437
+373,Clothes,1040
+374,Toys,958
+375,Home Appliances,334
+376,Home Appliances,167
+377,Books,920
+378,Books,1367
+379,Toys,1984
+380,Perfumes,500
+381,Perfumes,175
+382,Home Appliances,1375
+383,Home Appliances,161
+384,Books,1839
+385,Sports,829
+386,Clothes,1063
+387,Books,828
+388,Perfumes,901
+389,Sports,46
+390,Perfumes,208
+391,Sports,95
+392,Perfumes,1008
+393,Perfumes,1820
+394,Electronics,462
+395,Perfumes,1073
+396,Toys,1666
+397,Clothes,1666
+398,Clothes,1229
+399,Electronics,54
+400,Toys,834
+401,Toys,1728
+402,Books,187
+403,Clothes,1328
+404,Sports,1627
+405,Perfumes,1392
+406,Home Appliances,170
+407,Sports,1934
+408,Toys,288
+409,Books,231
+410,Perfumes,711
+411,Books,1311
+412,Home Appliances,392
+413,Books,1879
+414,Electronics,1561
+415,Sports,1550
+416,Perfumes,1507
+417,Electronics,517
+418,Perfumes,1307
+419,Toys,392
+420,Electronics,1241
+421,Clothes,1825
+422,Books,1065
+423,Toys,917
+424,Clothes,1313
+425,Books,1926
+426,Electronics,271
+427,Electronics,1888
+428,Home Appliances,37
+429,Books,749
+430,Home Appliances,1367
+431,Toys,102
+432,Electronics,1785
+433,Home Appliances,1524
+434,Books,1263
+435,Electronics,1195
+436,Perfumes,1749
+437,Toys,149
+438,Clothes,542
+439,Clothes,756
+440,Electronics,1906
+441,Electronics,94
+442,Perfumes,537
+443,Sports,683
+444,Sports,1615
+445,Perfumes,219
+446,Clothes,1125
+447,Sports,1529
+448,Sports,815
+449,Home Appliances,1064
+450,Electronics,1482
+451,Toys,365
+452,Sports,858
+453,Sports,1347
+454,Sports,756
+455,Sports,1006
+456,Home Appliances,552
+457,Clothes,1143
+458,Sports,24
+459,Electronics,806
+460,Perfumes,1609
+461,Sports,1548
+462,Sports,1736
+463,Clothes,134
+464,Toys,1926
+465,Electronics,1948
+466,Home Appliances,1543
+467,Electronics,1635
+468,Clothes,881
+469,Perfumes,110
+470,Electronics,49
+471,Sports,1781
+472,Sports,768
+473,Home Appliances,1178
+474,Books,779
+475,Toys,528
+476,Toys,936
+477,Clothes,1641
+478,Toys,1158
+479,Clothes,1609
+480,Home Appliances,568
+481,Perfumes,306
+482,Sports,481
+483,Perfumes,563
+484,Sports,532
+485,Sports,685
+486,Electronics,397
+487,Home Appliances,313
+488,Electronics,560
+489,Sports,818
+490,Clothes,879
+491,Electronics,595
+492,Perfumes,1919
+493,Perfumes,300
+494,Books,693
+495,Books,1111
+496,Electronics,674
+497,Books,1944
+498,Home Appliances,783
+499,Perfumes,1704
+500,Electronics,1351

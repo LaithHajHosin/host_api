@@ -1,0 +1,145 @@
+{
+  "user_id": 5,
+  "recommendations": [
+    {
+      "product_id": 39,
+      "category": "Perfumes",
+      "price": 339.0,
+      "product_name": "Perfume Oil",
+      "subcategory": "Men",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.15,
+      "avg_rating": 3.46,
+      "rating_count": 13
+    },
+    {
+      "product_id": 481,
+      "category": "Perfumes",
+      "price": 306.0,
+      "product_name": "Cologne",
+      "subcategory": "Men",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.78,
+      "avg_rating": 3.55,
+      "rating_count": 11
+    },
+    {
+      "product_id": 232,
+      "category": "Perfumes",
+      "price": 243.0,
+      "product_name": "Aftershave",
+      "subcategory": "Men",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.43,
+      "avg_rating": 3.33,
+      "rating_count": 15
+    },
+    {
+      "product_id": 155,
+      "category": "Perfumes",
+      "price": 178.0,
+      "product_name": "Fragrance Mist",
+      "subcategory": "Men",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 64.9,
+      "avg_rating": 4.6,
+      "rating_count": 5
+    },
+    {
+      "product_id": 298,
+      "category": "Toys",
+      "price": 356.0,
+      "product_name": "Puzzle",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 64.1,
+      "avg_rating": 3.5,
+      "rating_count": 12
+    },
+    {
+      "product_id": 280,
+      "category": "Perfumes",
+      "price": 1338.0,
+      "product_name": "Aftershave",
+      "subcategory": "Men",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 64.08,
+      "avg_rating": 3.85,
+      "rating_count": 13
+    },
+    {
+      "product_id": 381,
+      "category": "Perfumes",
+      "price": 175.0,
+      "product_name": "Perfume Oil",
+      "subcategory": "Men",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 63.4,
+      "avg_rating": 3.38,
+      "rating_count": 16
+    },
+    {
+      "product_id": 158,
+      "category": "Perfumes",
+      "price": 235.0,
+      "product_name": "Body Spray",
+      "subcategory": "Men",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 62.9,
+      "avg_rating": 2.7,
+      "rating_count": 10
+    },
+    {
+      "product_id": 46,
+      "category": "Books",
+      "price": 427.0,
+      "product_name": "Self-Help",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 62.3,
+      "avg_rating": 3.25,
+      "rating_count": 8
+    },
+    {
+      "product_id": 222,
+      "category": "Perfumes",
+      "price": 1193.0,
+      "product_name": "Eau de Parfum",
+      "subcategory": "Men",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 61.83,
+      "avg_rating": 3.33,
+      "rating_count": 6
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 25,
+    "best_fitness": 63.74,
+    "fitness_improvement": 0.13,
+    "random_seed": 548381,
+    "population_size": 48,
+    "mutation_rate": 0.098
+  },
+  "user_profile": {
+    "id": 5,
+    "age": 51,
+    "country": "UAE",
+    "segment": "Established Adult",
+    "purchased_count": 6
+  },
+  "metadata": {
+    "timestamp": "2026-04-26T21:52:54.924992",
+    "total_recommendations": 10,
+    "random_seed": 548381
+  }
+}
