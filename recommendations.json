@@ -1,0 +1,136 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 173,
+      "category": "Home Appliances",
+      "price": 1167.0,
+      "product_name": "Air Fryer",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 51.19,
+      "avg_rating": 4.33,
+      "rating_count": 18
+    },
+    {
+      "product_id": 269,
+      "category": "Perfumes",
+      "price": 74.0,
+      "product_name": "Fragrance Mist",
+      "subcategory": "Men",
+      "price_tier": "Economy",
+      "seasonality": "Year-round",
+      "recommendation_score": 51.16,
+      "avg_rating": 3.5,
+      "rating_count": 30
+    },
+    {
+      "product_id": 259,
+      "category": "Perfumes",
+      "price": 55.0,
+      "product_name": "Cologne",
+      "subcategory": "Men",
+      "price_tier": "Economy",
+      "seasonality": "Year-round",
+      "recommendation_score": 51.01,
+      "avg_rating": 3.42,
+      "rating_count": 36
+    },
+    {
+      "product_id": 96,
+      "category": "Toys",
+      "price": 998.0,
+      "product_name": "Stuffed Animal",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 49.98,
+      "avg_rating": 3.28,
+      "rating_count": 54
+    },
+    {
+      "product_id": 164,
+      "category": "Home Appliances",
+      "price": 1497.0,
+      "product_name": "Coffee Maker",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 49.91,
+      "avg_rating": 3.6,
+      "rating_count": 30
+    },
+    {
+      "product_id": 97,
+      "category": "Home Appliances",
+      "price": 1701.0,
+      "product_name": "Iron",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 49.18,
+      "avg_rating": 3.18,
+      "rating_count": 33
+    },
+    {
+      "product_id": 196,
+      "category": "Books",
+      "price": 1213.0,
+      "product_name": "Novel",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 48.45,
+      "avg_rating": 4.0,
+      "rating_count": 6
+    },
+    {
+      "product_id": 391,
+      "category": "Sports",
+      "price": 95.0,
+      "product_name": "Sports Bag",
+      "subcategory": "Fitness",
+      "price_tier": "Economy",
+      "seasonality": "Seasonal",
+      "recommendation_score": 47.9,
+      "avg_rating": 3.0,
+      "rating_count": 21
+    },
+    {
+      "product_id": 234,
+      "category": "Clothes",
+      "price": 1298.0,
+      "product_name": "Dress",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 47.55,
+      "avg_rating": 3.6,
+      "rating_count": 30
+    },
+    {
+      "product_id": 435,
+      "category": "Electronics",
+      "price": 1195.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 47.52,
+      "avg_rating": 3.25,
+      "rating_count": 12
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 30,
+    "best_fitness": 18.69,
+    "fitness_improvement": 0.63
+  },
+  "user_profile": {
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  }
+}
