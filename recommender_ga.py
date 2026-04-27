@@ -36,12 +36,12 @@ class ProductRecommenderGA:
         self.conn = sqlite3.connect(db_path)
         # Set row_factory to return rows as dictionaries (access by column name)
         self.conn.row_factory = sqlite3.Row
-        
-        # Genetic Algorithm hyperparameters
-        self.population_size = 50    # Number of chromosomes (recommendation sets) in population
-        self.generations = 30        # Number of evolution cycles to run
-        self.mutation_rate = 0.1     # Probability of mutating each gene (10%)
-        self.crossover_rate = 0.7    # Probability of crossover between parents (70%)
+    
+        # OPTIMIZED for free tier hosting
+        self.population_size = 20    # Reduced from 50
+        self.generations = 15        # Reduced from 30
+        self.mutation_rate = 0.1
+        self.crossover_rate = 0.7
         
         # Initialize product cache
         self._product_cache = _ProductCache(maxsize=500)
