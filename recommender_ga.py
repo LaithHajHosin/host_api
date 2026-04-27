@@ -478,7 +478,7 @@ class ProductRecommenderGA:
             avg_fitness = sum(fitness_scores) / len(fitness_scores) if fitness_scores else 0
             
             # Progress report every 5 generations
-            if generation % 5 == 0:
+            if generation % 1 == 0:
                 print(f"Gen {generation}: Best={best_fitness:.4f}")
             
             # Selection: choose parents based on fitness
