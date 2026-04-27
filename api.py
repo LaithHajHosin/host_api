@@ -8,6 +8,89 @@ import random
 import time
 from datetime import datetime
 import traceback
+import subprocess
+import sys
+
+def ensure_database():
+    """Create database from CSV files if it doesn't exist"""
+    db_path = 'projject_database.db'
+    if not os.path.exists(db_path):
+        print("📦 Database not found. Creating from CSV files...")
+        try:
+            # Run create_db.py
+            result = subprocess.run([sys.executable, 'create_db.py'], 
+                                  capture_output=True, text=True, check=True)
+            print(result.stdout)
+            print("✅ Database created successfully!")
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Error creating database: {e.stderr}")
+            # Try alternative: create tables directly
+            create_tables_directly()
+    else:
+        print(f"✅ Database already exists ({db_path})")
+
+def create_tables_directly():
+    """Fallback: Create tables directly if create_db.py fails"""
+    import sqlite3
+    conn = sqlite3.connect('projject_database.db')
+    cursor = conn.cursor()
+    
+    # Create tables
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS users (
+        user_id INTEGER PRIMARY KEY,
+        age INTEGER,
+        country TEXT,
+        age_group TEXT,
+        region TEXT,
+        customer_segment TEXT
+    )''')
+    
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS products (
+        product_id INTEGER PRIMARY KEY,
+        category TEXT,
+        price REAL,
+        product_name TEXT,
+        subcategory TEXT,
+        cost REAL,
+        margin REAL,
+        price_tier TEXT,
+        seasonality TEXT
+    )''')
+    
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS ratings (
+        rating_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        user_id INTEGER,
+        product_id INTEGER,
+        rating INTEGER
+    )''')
+    
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS user_behavior (
+        behavior_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        user_id INTEGER,
+        product_id INTEGER,
+        viewed INTEGER,
+        clicked INTEGER,
+        purchased INTEGER
+    )''')
+    
+    conn.commit()
+    conn.close()
+    print("✅ Tables created directly (no data)")
+
+# Call this when app starts
+ensure_database()
+
+if not os.path.exists('projject_database.db'):
+    print("📦 Creating database on startup...")
+    try:
+        subprocess.run([sys.executable, 'create_db.py'], check=True)
+        print("✅ Database created successfully!")
+    except Exception as e:
+        print(f"⚠️ Error creating database: {e}")
 
 # =====================================================
 # PRODUCT RECOMMENDER GA CLASS
