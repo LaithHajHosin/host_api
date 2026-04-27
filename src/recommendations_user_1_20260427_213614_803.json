@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 343,
+      "category": "Electronics",
+      "price": 1504.0,
+      "product_name": "Headphones",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 72.3,
+      "avg_rating": 3.2,
+      "rating_count": 15
+    },
+    {
+      "product_id": 59,
+      "category": "Electronics",
+      "price": 421.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 71.11,
+      "avg_rating": 2.73,
+      "rating_count": 11
+    },
+    {
+      "product_id": 136,
+      "category": "Electronics",
+      "price": 1786.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.95,
+      "avg_rating": 3.54,
+      "rating_count": 13
+    },
+    {
+      "product_id": 126,
+      "category": "Electronics",
+      "price": 1929.0,
+      "product_name": "Headphones",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.6,
+      "avg_rating": 2.5,
+      "rating_count": 6
+    },
+    {
+      "product_id": 326,
+      "category": "Sports",
+      "price": 221.0,
+      "product_name": "Dumbbell",
+      "subcategory": "Fitness",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 62.9,
+      "avg_rating": 3.5,
+      "rating_count": 12
+    },
+    {
+      "product_id": 203,
+      "category": "Clothes",
+      "price": 252.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 62.49,
+      "avg_rating": 3.22,
+      "rating_count": 9
+    },
+    {
+      "product_id": 490,
+      "category": "Clothes",
+      "price": 879.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 61.0,
+      "avg_rating": 3.88,
+      "rating_count": 8
+    },
+    {
+      "product_id": 116,
+      "category": "Toys",
+      "price": 491.0,
+      "product_name": "Puzzle",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 57.5,
+      "avg_rating": 2.5,
+      "rating_count": 6
+    },
+    {
+      "product_id": 446,
+      "category": "Clothes",
+      "price": 1125.0,
+      "product_name": "Sweater",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.47,
+      "avg_rating": 3.14,
+      "rating_count": 14
+    },
+    {
+      "product_id": 468,
+      "category": "Clothes",
+      "price": 881.0,
+      "product_name": "Pants",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.2,
+      "avg_rating": 3.38,
+      "rating_count": 8
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 60.47,
+    "fitness_improvement": 0.01
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T21:36:14.806070",
+    "total_recommendations": 10
+  }
+}

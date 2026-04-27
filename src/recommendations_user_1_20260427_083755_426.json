@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 59,
+      "category": "Electronics",
+      "price": 421.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 71.11,
+      "avg_rating": 2.73,
+      "rating_count": 11
+    },
+    {
+      "product_id": 248,
+      "category": "Electronics",
+      "price": 1300.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 70.35,
+      "avg_rating": 3.19,
+      "rating_count": 16
+    },
+    {
+      "product_id": 296,
+      "category": "Electronics",
+      "price": 1315.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.53,
+      "avg_rating": 2.86,
+      "rating_count": 7
+    },
+    {
+      "product_id": 67,
+      "category": "Electronics",
+      "price": 1630.0,
+      "product_name": "Mouse",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.1,
+      "avg_rating": 2.25,
+      "rating_count": 12
+    },
+    {
+      "product_id": 29,
+      "category": "Electronics",
+      "price": 1279.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.39,
+      "avg_rating": 2.27,
+      "rating_count": 11
+    },
+    {
+      "product_id": 463,
+      "category": "Clothes",
+      "price": 134.0,
+      "product_name": "Jeans",
+      "subcategory": "Kids",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 60.4,
+      "avg_rating": 2.4,
+      "rating_count": 5
+    },
+    {
+      "product_id": 444,
+      "category": "Sports",
+      "price": 1615.0,
+      "product_name": "Yoga Mat",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 59.0,
+      "avg_rating": 4.0,
+      "rating_count": 8
+    },
+    {
+      "product_id": 115,
+      "category": "Sports",
+      "price": 1237.0,
+      "product_name": "Yoga Mat",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 56.95,
+      "avg_rating": 3.54,
+      "rating_count": 13
+    },
+    {
+      "product_id": 339,
+      "category": "Home Appliances",
+      "price": 254.0,
+      "product_name": "Coffee Maker",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 56.0,
+      "avg_rating": 3.38,
+      "rating_count": 8
+    },
+    {
+      "product_id": 241,
+      "category": "Sports",
+      "price": 1829.0,
+      "product_name": "Yoga Mat",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.73,
+      "avg_rating": 3.18,
+      "rating_count": 11
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 61.19,
+    "fitness_improvement": 0.04
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:37:55.427921",
+    "total_recommendations": 10
+  }
+}

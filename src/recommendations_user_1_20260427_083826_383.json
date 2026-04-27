@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 204,
+      "category": "Electronics",
+      "price": 443.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 77.21,
+      "avg_rating": 3.73,
+      "rating_count": 11
+    },
+    {
+      "product_id": 496,
+      "category": "Electronics",
+      "price": 674.0,
+      "product_name": "Speaker",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.17,
+      "avg_rating": 3.14,
+      "rating_count": 14
+    },
+    {
+      "product_id": 435,
+      "category": "Electronics",
+      "price": 1195.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.0,
+      "avg_rating": 3.25,
+      "rating_count": 4
+    },
+    {
+      "product_id": 322,
+      "category": "Clothes",
+      "price": 296.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 62.72,
+      "avg_rating": 3.15,
+      "rating_count": 13
+    },
+    {
+      "product_id": 26,
+      "category": "Toys",
+      "price": 139.0,
+      "product_name": "Stuffed Animal",
+      "subcategory": "Educational",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 61.7,
+      "avg_rating": 3.0,
+      "rating_count": 16
+    },
+    {
+      "product_id": 109,
+      "category": "Books",
+      "price": 217.0,
+      "product_name": "Self-Help",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 58.4,
+      "avg_rating": 3.2,
+      "rating_count": 10
+    },
+    {
+      "product_id": 404,
+      "category": "Sports",
+      "price": 1627.0,
+      "product_name": "Running Shoes",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 56.56,
+      "avg_rating": 3.09,
+      "rating_count": 11
+    },
+    {
+      "product_id": 196,
+      "category": "Books",
+      "price": 1213.0,
+      "product_name": "Novel",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.5,
+      "avg_rating": 4.0,
+      "rating_count": 2
+    },
+    {
+      "product_id": 251,
+      "category": "Clothes",
+      "price": 881.0,
+      "product_name": "Pants",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 55.3,
+      "avg_rating": 2.75,
+      "rating_count": 8
+    },
+    {
+      "product_id": 379,
+      "category": "Toys",
+      "price": 1984.0,
+      "product_name": "Board Game",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.01,
+      "avg_rating": 3.43,
+      "rating_count": 14
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 59.32,
+    "fitness_improvement": 0.05
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:38:26.387014",
+    "total_recommendations": 10
+  }
+}

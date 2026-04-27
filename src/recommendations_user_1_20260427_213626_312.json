@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 149,
+      "category": "Electronics",
+      "price": 20.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Budget",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.92,
+      "avg_rating": 3.15,
+      "rating_count": 13
+    },
+    {
+      "product_id": 21,
+      "category": "Clothes",
+      "price": 179.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 63.7,
+      "avg_rating": 2.9,
+      "rating_count": 10
+    },
+    {
+      "product_id": 111,
+      "category": "Toys",
+      "price": 173.0,
+      "product_name": "Remote Control Car",
+      "subcategory": "Educational",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 62.4,
+      "avg_rating": 3.12,
+      "rating_count": 8
+    },
+    {
+      "product_id": 26,
+      "category": "Toys",
+      "price": 139.0,
+      "product_name": "Stuffed Animal",
+      "subcategory": "Educational",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 61.7,
+      "avg_rating": 3.0,
+      "rating_count": 16
+    },
+    {
+      "product_id": 457,
+      "category": "Clothes",
+      "price": 1143.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 59.1,
+      "avg_rating": 3.6,
+      "rating_count": 10
+    },
+    {
+      "product_id": 400,
+      "category": "Toys",
+      "price": 834.0,
+      "product_name": "Board Game",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 57.7,
+      "avg_rating": 3.75,
+      "rating_count": 12
+    },
+    {
+      "product_id": 446,
+      "category": "Clothes",
+      "price": 1125.0,
+      "product_name": "Sweater",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.47,
+      "avg_rating": 3.14,
+      "rating_count": 14
+    },
+    {
+      "product_id": 4,
+      "category": "Clothes",
+      "price": 1453.0,
+      "product_name": "Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 56.64,
+      "avg_rating": 3.11,
+      "rating_count": 9
+    },
+    {
+      "product_id": 208,
+      "category": "Books",
+      "price": 1400.0,
+      "product_name": "Children Book",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.55,
+      "avg_rating": 3.64,
+      "rating_count": 11
+    },
+    {
+      "product_id": 276,
+      "category": "Sports",
+      "price": 1044.0,
+      "product_name": "Yoga Mat",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.3,
+      "avg_rating": 3.0,
+      "rating_count": 11
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 58.22,
+    "fitness_improvement": 0.02
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T21:36:26.314784",
+    "total_recommendations": 10
+  }
+}

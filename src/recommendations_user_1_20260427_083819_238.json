@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 486,
+      "category": "Electronics",
+      "price": 397.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 76.55,
+      "avg_rating": 3.64,
+      "rating_count": 11
+    },
+    {
+      "product_id": 363,
+      "category": "Electronics",
+      "price": 826.0,
+      "product_name": "Speaker",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 71.91,
+      "avg_rating": 3.78,
+      "rating_count": 9
+    },
+    {
+      "product_id": 399,
+      "category": "Electronics",
+      "price": 54.0,
+      "product_name": "Headphones",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Economy",
+      "seasonality": "Year-round",
+      "recommendation_score": 70.49,
+      "avg_rating": 3.22,
+      "rating_count": 9
+    },
+    {
+      "product_id": 345,
+      "category": "Electronics",
+      "price": 553.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.03,
+      "avg_rating": 2.83,
+      "rating_count": 12
+    },
+    {
+      "product_id": 26,
+      "category": "Toys",
+      "price": 139.0,
+      "product_name": "Stuffed Animal",
+      "subcategory": "Educational",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 61.7,
+      "avg_rating": 3.0,
+      "rating_count": 16
+    },
+    {
+      "product_id": 141,
+      "category": "Clothes",
+      "price": 1722.0,
+      "product_name": "Jeans",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.83,
+      "avg_rating": 3.33,
+      "rating_count": 9
+    },
+    {
+      "product_id": 423,
+      "category": "Toys",
+      "price": 917.0,
+      "product_name": "Lego Set",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 56.75,
+      "avg_rating": 3.46,
+      "rating_count": 13
+    },
+    {
+      "product_id": 415,
+      "category": "Sports",
+      "price": 1550.0,
+      "product_name": "Tennis Racket",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.47,
+      "avg_rating": 2.82,
+      "rating_count": 11
+    },
+    {
+      "product_id": 188,
+      "category": "Sports",
+      "price": 44.0,
+      "product_name": "Sports Bag",
+      "subcategory": "Fitness",
+      "price_tier": "Budget",
+      "seasonality": "Seasonal",
+      "recommendation_score": 54.1,
+      "avg_rating": 3.4,
+      "rating_count": 10
+    },
+    {
+      "product_id": 113,
+      "category": "Books",
+      "price": 1373.0,
+      "product_name": "Textbook",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 53.04,
+      "avg_rating": 3.11,
+      "rating_count": 9
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 62.35,
+    "fitness_improvement": 0.05
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:38:19.240085",
+    "total_recommendations": 10
+  }
+}

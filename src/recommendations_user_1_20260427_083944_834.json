@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 152,
+      "category": "Electronics",
+      "price": 673.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.01,
+      "avg_rating": 3.08,
+      "rating_count": 13
+    },
+    {
+      "product_id": 432,
+      "category": "Electronics",
+      "price": 1785.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.64,
+      "avg_rating": 2.91,
+      "rating_count": 11
+    },
+    {
+      "product_id": 270,
+      "category": "Electronics",
+      "price": 547.0,
+      "product_name": "Mouse",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.6,
+      "avg_rating": 2.5,
+      "rating_count": 8
+    },
+    {
+      "product_id": 299,
+      "category": "Electronics",
+      "price": 1022.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.9,
+      "avg_rating": 2.5,
+      "rating_count": 12
+    },
+    {
+      "product_id": 21,
+      "category": "Clothes",
+      "price": 179.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 63.7,
+      "avg_rating": 2.9,
+      "rating_count": 10
+    },
+    {
+      "product_id": 46,
+      "category": "Books",
+      "price": 427.0,
+      "product_name": "Self-Help",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 60.3,
+      "avg_rating": 3.25,
+      "rating_count": 8
+    },
+    {
+      "product_id": 135,
+      "category": "Clothes",
+      "price": 1158.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 59.7,
+      "avg_rating": 3.62,
+      "rating_count": 8
+    },
+    {
+      "product_id": 446,
+      "category": "Clothes",
+      "price": 1125.0,
+      "product_name": "Sweater",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.47,
+      "avg_rating": 3.14,
+      "rating_count": 14
+    },
+    {
+      "product_id": 285,
+      "category": "Books",
+      "price": 217.0,
+      "product_name": "Children Book",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 57.26,
+      "avg_rating": 2.89,
+      "rating_count": 9
+    },
+    {
+      "product_id": 304,
+      "category": "Books",
+      "price": 1941.0,
+      "product_name": "Biography",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.91,
+      "avg_rating": 3.35,
+      "rating_count": 17
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 58.96,
+    "fitness_improvement": 0.03
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:39:44.836775",
+    "total_recommendations": 10
+  }
+}

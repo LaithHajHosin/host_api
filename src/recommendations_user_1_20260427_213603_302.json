@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 394,
+      "category": "Electronics",
+      "price": 462.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 72.4,
+      "avg_rating": 2.8,
+      "rating_count": 10
+    },
+    {
+      "product_id": 215,
+      "category": "Electronics",
+      "price": 1805.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.19,
+      "avg_rating": 3.07,
+      "rating_count": 14
+    },
+    {
+      "product_id": 149,
+      "category": "Electronics",
+      "price": 20.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Budget",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.92,
+      "avg_rating": 3.15,
+      "rating_count": 13
+    },
+    {
+      "product_id": 67,
+      "category": "Electronics",
+      "price": 1630.0,
+      "product_name": "Mouse",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 66.1,
+      "avg_rating": 2.25,
+      "rating_count": 12
+    },
+    {
+      "product_id": 22,
+      "category": "Electronics",
+      "price": 1308.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.22,
+      "avg_rating": 2.56,
+      "rating_count": 9
+    },
+    {
+      "product_id": 409,
+      "category": "Books",
+      "price": 231.0,
+      "product_name": "Biography",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 58.2,
+      "avg_rating": 2.7,
+      "rating_count": 10
+    },
+    {
+      "product_id": 229,
+      "category": "Clothes",
+      "price": 1573.0,
+      "product_name": "Sweater",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 54.27,
+      "avg_rating": 2.67,
+      "rating_count": 6
+    },
+    {
+      "product_id": 175,
+      "category": "Sports",
+      "price": 1924.0,
+      "product_name": "Soccer Ball",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 53.3,
+      "avg_rating": 2.8,
+      "rating_count": 5
+    },
+    {
+      "product_id": 373,
+      "category": "Clothes",
+      "price": 1040.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 52.6,
+      "avg_rating": 2.25,
+      "rating_count": 12
+    },
+    {
+      "product_id": 228,
+      "category": "Home Appliances",
+      "price": 1394.0,
+      "product_name": "Vacuum Cleaner",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 51.6,
+      "avg_rating": 3.3,
+      "rating_count": 10
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 57.01,
+    "fitness_improvement": 0.04
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T21:36:03.304709",
+    "total_recommendations": 10
+  }
+}

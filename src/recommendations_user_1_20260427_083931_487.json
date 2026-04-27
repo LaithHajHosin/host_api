@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 77,
+      "category": "Electronics",
+      "price": 187.0,
+      "product_name": "Headphones",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 77.23,
+      "avg_rating": 3.33,
+      "rating_count": 12
+    },
+    {
+      "product_id": 287,
+      "category": "Electronics",
+      "price": 1430.0,
+      "product_name": "Headphones",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.76,
+      "avg_rating": 3.09,
+      "rating_count": 11
+    },
+    {
+      "product_id": 22,
+      "category": "Electronics",
+      "price": 1308.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 65.22,
+      "avg_rating": 2.56,
+      "rating_count": 9
+    },
+    {
+      "product_id": 362,
+      "category": "Sports",
+      "price": 420.0,
+      "product_name": "Running Shoes",
+      "subcategory": "Fitness",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 60.77,
+      "avg_rating": 2.67,
+      "rating_count": 12
+    },
+    {
+      "product_id": 457,
+      "category": "Clothes",
+      "price": 1143.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 59.1,
+      "avg_rating": 3.6,
+      "rating_count": 10
+    },
+    {
+      "product_id": 160,
+      "category": "Home Appliances",
+      "price": 124.0,
+      "product_name": "Iron",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.43,
+      "avg_rating": 2.86,
+      "rating_count": 14
+    },
+    {
+      "product_id": 455,
+      "category": "Sports",
+      "price": 1006.0,
+      "product_name": "Soccer Ball",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 56.8,
+      "avg_rating": 3.2,
+      "rating_count": 10
+    },
+    {
+      "product_id": 375,
+      "category": "Home Appliances",
+      "price": 334.0,
+      "product_name": "Vacuum Cleaner",
+      "subcategory": "Heating/Cooling",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 55.83,
+      "avg_rating": 2.83,
+      "rating_count": 6
+    },
+    {
+      "product_id": 241,
+      "category": "Sports",
+      "price": 1829.0,
+      "product_name": "Yoga Mat",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.73,
+      "avg_rating": 3.18,
+      "rating_count": 11
+    },
+    {
+      "product_id": 175,
+      "category": "Sports",
+      "price": 1924.0,
+      "product_name": "Soccer Ball",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 53.3,
+      "avg_rating": 2.8,
+      "rating_count": 5
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 59.03,
+    "fitness_improvement": -0.02
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:39:31.489407",
+    "total_recommendations": 10
+  }
+}

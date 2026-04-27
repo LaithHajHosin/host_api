@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 486,
+      "category": "Electronics",
+      "price": 397.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 76.55,
+      "avg_rating": 3.64,
+      "rating_count": 11
+    },
+    {
+      "product_id": 47,
+      "category": "Electronics",
+      "price": 1276.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 71.5,
+      "avg_rating": 3.6,
+      "rating_count": 15
+    },
+    {
+      "product_id": 137,
+      "category": "Electronics",
+      "price": 1637.0,
+      "product_name": "Mouse",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.38,
+      "avg_rating": 3.44,
+      "rating_count": 9
+    },
+    {
+      "product_id": 215,
+      "category": "Electronics",
+      "price": 1805.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 69.19,
+      "avg_rating": 3.07,
+      "rating_count": 14
+    },
+    {
+      "product_id": 311,
+      "category": "Electronics",
+      "price": 827.0,
+      "product_name": "USB Cable",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 68.27,
+      "avg_rating": 2.87,
+      "rating_count": 15
+    },
+    {
+      "product_id": 128,
+      "category": "Electronics",
+      "price": 1276.0,
+      "product_name": "Power Bank",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.9,
+      "avg_rating": 3.12,
+      "rating_count": 8
+    },
+    {
+      "product_id": 488,
+      "category": "Electronics",
+      "price": 560.0,
+      "product_name": "Keyboard",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.15,
+      "avg_rating": 2.64,
+      "rating_count": 11
+    },
+    {
+      "product_id": 21,
+      "category": "Clothes",
+      "price": 179.0,
+      "product_name": "T-Shirt",
+      "subcategory": "Kids",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 63.7,
+      "avg_rating": 2.9,
+      "rating_count": 10
+    },
+    {
+      "product_id": 53,
+      "category": "Sports",
+      "price": 182.0,
+      "product_name": "Dumbbell",
+      "subcategory": "Fitness",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 61.7,
+      "avg_rating": 3.12,
+      "rating_count": 8
+    },
+    {
+      "product_id": 242,
+      "category": "Books",
+      "price": 387.0,
+      "product_name": "Self-Help",
+      "subcategory": "Educational",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 59.17,
+      "avg_rating": 2.92,
+      "rating_count": 12
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 64.39,
+    "fitness_improvement": 0.11
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T21:35:38.434492",
+    "total_recommendations": 10
+  }
+}

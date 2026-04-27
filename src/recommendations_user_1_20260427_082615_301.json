@@ -1,0 +1,141 @@
+{
+  "user_id": 1,
+  "recommendations": [
+    {
+      "product_id": 253,
+      "category": "Electronics",
+      "price": 1337.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.9,
+      "avg_rating": 3.12,
+      "rating_count": 8
+    },
+    {
+      "product_id": 120,
+      "category": "Electronics",
+      "price": 924.0,
+      "product_name": "Charger",
+      "subcategory": "Mobile Accessories",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 67.27,
+      "avg_rating": 2.92,
+      "rating_count": 12
+    },
+    {
+      "product_id": 111,
+      "category": "Toys",
+      "price": 173.0,
+      "product_name": "Remote Control Car",
+      "subcategory": "Educational",
+      "price_tier": "Standard",
+      "seasonality": "Seasonal",
+      "recommendation_score": 62.4,
+      "avg_rating": 3.12,
+      "rating_count": 8
+    },
+    {
+      "product_id": 321,
+      "category": "Clothes",
+      "price": 117.0,
+      "product_name": "Pants",
+      "subcategory": "Kids",
+      "price_tier": "Standard",
+      "seasonality": "Year-round",
+      "recommendation_score": 62.2,
+      "avg_rating": 2.62,
+      "rating_count": 8
+    },
+    {
+      "product_id": 275,
+      "category": "Clothes",
+      "price": 233.0,
+      "product_name": "Jacket",
+      "subcategory": "Kids",
+      "price_tier": "Premium",
+      "seasonality": "Year-round",
+      "recommendation_score": 59.5,
+      "avg_rating": 2.5,
+      "rating_count": 10
+    },
+    {
+      "product_id": 90,
+      "category": "Sports",
+      "price": 418.0,
+      "product_name": "Sports Bag",
+      "subcategory": "Fitness",
+      "price_tier": "Premium",
+      "seasonality": "Seasonal",
+      "recommendation_score": 57.5,
+      "avg_rating": 2.0,
+      "rating_count": 9
+    },
+    {
+      "product_id": 448,
+      "category": "Sports",
+      "price": 815.0,
+      "product_name": "Soccer Ball",
+      "subcategory": "Fitness",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 57.43,
+      "avg_rating": 3.33,
+      "rating_count": 15
+    },
+    {
+      "product_id": 117,
+      "category": "Clothes",
+      "price": 1956.0,
+      "product_name": "Sweater",
+      "subcategory": "Kids",
+      "price_tier": "Luxury",
+      "seasonality": "Year-round",
+      "recommendation_score": 57.2,
+      "avg_rating": 3.38,
+      "rating_count": 8
+    },
+    {
+      "product_id": 219,
+      "category": "Toys",
+      "price": 68.0,
+      "product_name": "Doll",
+      "subcategory": "Educational",
+      "price_tier": "Economy",
+      "seasonality": "Seasonal",
+      "recommendation_score": 56.7,
+      "avg_rating": 3.1,
+      "rating_count": 10
+    },
+    {
+      "product_id": 429,
+      "category": "Books",
+      "price": 749.0,
+      "product_name": "Cookbook",
+      "subcategory": "Educational",
+      "price_tier": "Luxury",
+      "seasonality": "Seasonal",
+      "recommendation_score": 55.14,
+      "avg_rating": 3.29,
+      "rating_count": 7
+    }
+  ],
+  "algorithm_metrics": {
+    "generations": 5,
+    "best_fitness": 58.99,
+    "fitness_improvement": 0.04
+  },
+  "user_profile": {
+    "id": 1,
+    "age": 35,
+    "country": "Qatar",
+    "segment": "Working Professional",
+    "purchased_count": 4
+  },
+  "metadata": {
+    "timestamp": "2026-04-27T08:26:15.303382",
+    "total_recommendations": 10
+  }
+}
