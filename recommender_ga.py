@@ -38,8 +38,8 @@ class ProductRecommenderGA:
         self.conn.row_factory = sqlite3.Row
     
         # OPTIMIZED for free tier hosting
-        self.population_size = 20    # Reduced from 50
-        self.generations = 15        # Reduced from 30
+        self.population_size = 3    # Reduced from 50
+        self.generations = 5        # Reduced from 30
         self.mutation_rate = 0.1
         self.crossover_rate = 0.7
         
