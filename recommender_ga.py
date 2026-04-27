@@ -30,16 +30,21 @@ class _ProductCache:
 class ProductRecommenderGA:
     """Genetic Algorithm based Product Recommender System"""
     
-    def __init__(self, db_path):
+    def __init__(self, db_path, random_seed=None):
         """Initialize the recommender with database connection and GA parameters"""
-        # Connect to SQLite database
         self.conn = sqlite3.connect(db_path)
-        # Set row_factory to return rows as dictionaries (access by column name)
         self.conn.row_factory = sqlite3.Row
-    
+        
+        # Set random seed if provided
+        if random_seed is not None:
+            random.seed(random_seed)
+            self.random_seed = random_seed
+        else:
+            self.random_seed = int(time.time() * 1000) % 1000000
+        
         # OPTIMIZED for free tier hosting
-        self.population_size = 3    # Reduced from 50
-        self.generations = 5        # Reduced from 30
+        self.population_size = 3
+        self.generations = 5
         self.mutation_rate = 0.1
         self.crossover_rate = 0.7
         
