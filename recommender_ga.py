@@ -4,6 +4,7 @@ import math     # For mathematical operations (though not heavily used here)
 import json     # For saving recommendations to JSON file
 from datetime import datetime  # For timestamping the output
 from collections import OrderedDict
+import time 
 
 # Simple cache for product features
 class _ProductCache:
